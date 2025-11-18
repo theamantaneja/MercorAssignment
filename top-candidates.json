@@ -1,0 +1,1051 @@
+{
+    "candidates": [
+        {
+            "name": "Agile Flamingo",
+            "email": "agile-flamingo@example.com",
+            "phone": "549115504497",
+            "location": "Buenos Aires",
+            "submitted_at": "2025-01-27 12:48:17.000000",
+            "work_availability": [
+                "full-time",
+                "part-time"
+            ],
+            "annual_salary_expectation": {
+                "full-time": "$103613"
+            },
+            "work_experiences": [
+                {
+                    "company": "Centaurus Securities",
+                    "roleName": "Frontend Engineer"
+                },
+                {
+                    "company": "Universidad Cat\u00f3lica Argentina",
+                    "roleName": "Full Stack Developer"
+                },
+                {
+                    "company": "Sirius Software",
+                    "roleName": "Full Stack Developer"
+                },
+                {
+                    "company": "Double Point",
+                    "roleName": "Full Stack Developer"
+                },
+                {
+                    "company": "AC&A",
+                    "roleName": "Project Manager"
+                },
+                {
+                    "company": "MaderoHaus",
+                    "roleName": "Managing Director"
+                },
+                {
+                    "company": "Latinoconsult",
+                    "roleName": "Project Manager"
+                }
+            ],
+            "education": {
+                "highest_level": "Master's Degree",
+                "degrees": [
+                    {
+                        "degree": "Master's Degree",
+                        "subject": "Computer Science",
+                        "school": "International Institutions",
+                        "gpa": "GPA 3.5-3.9",
+                        "startDate": "2016",
+                        "endDate": "2017",
+                        "originalSchool": "\u00c9cole des Ponts ParisTech",
+                        "isTop50": true
+                    },
+                    {
+                        "degree": "Bachelor's Degree",
+                        "subject": "Civil Engineering",
+                        "school": "International Institutions",
+                        "gpa": "GPA 3.0-3.4",
+                        "startDate": "2011",
+                        "endDate": "2020",
+                        "originalSchool": "University of Buenos Aires",
+                        "isTop50": false
+                    },
+                    {
+                        "degree": "Bachelor's Degree",
+                        "subject": "Computer Science",
+                        "school": "International Institutions",
+                        "gpa": "GPA 3.0-3.4",
+                        "startDate": "2021",
+                        "endDate": "2022",
+                        "originalSchool": "University of Buenos Aires",
+                        "isTop50": false
+                    },
+                    {
+                        "degree": "Associate's Degree",
+                        "subject": "Information Technology",
+                        "school": "International Institutions",
+                        "gpa": "GPA 3.0-3.4",
+                        "startDate": "",
+                        "endDate": "2006",
+                        "originalSchool": "Cangallo Schule",
+                        "isTop50": false
+                    },
+                    {
+                        "degree": "Associate's Degree",
+                        "subject": "Astrophysics",
+                        "school": "International Institutions",
+                        "gpa": "GPA 3.0-3.4",
+                        "startDate": "2010",
+                        "endDate": "2011",
+                        "originalSchool": "Centro Universitario de Aviaci\u00f3n",
+                        "isTop50": false
+                    }
+                ]
+            },
+            "skills": [
+                "Amazon Web Services",
+                "GraphQL",
+                "HTML/CSS",
+                "Java",
+                "JavaScript",
+                "Next JS",
+                "Node JS",
+                "PHP",
+                "Python",
+                "React",
+                "React Native",
+                "Redux",
+                "SQL",
+                "TypeScript",
+                "Pandas",
+                "PostgreSQL"
+            ],
+            "id": 852,
+            "score": {
+                "totalScore": 94,
+                "breakdown": {
+                    "experience": 31,
+                    "education": 23,
+                    "skills": 20,
+                    "salary": 10,
+                    "availability": 10
+                }
+            }
+        },
+        {
+            "name": "Zealous Goat",
+            "email": "zealous-goat@example.com",
+            "phone": "447940151030",
+            "location": "UK",
+            "submitted_at": "2025-01-27 01:41:12.000000",
+            "work_availability": [
+                "full-time",
+                "part-time"
+            ],
+            "annual_salary_expectation": {
+                "full-time": "$91550"
+            },
+            "work_experiences": [
+                {
+                    "company": "University of Portsmouth",
+                    "roleName": "Machine Learning Engineer"
+                },
+                {
+                    "company": "Ministry of Education",
+                    "roleName": "Software Engineer"
+                },
+                {
+                    "company": "Arneca",
+                    "roleName": "Software Engineer"
+                },
+                {
+                    "company": "Huawei",
+                    "roleName": "Software Engineer"
+                },
+                {
+                    "company": "Vestel",
+                    "roleName": "Software Engineer"
+                }
+            ],
+            "education": {
+                "highest_level": "Doctorate",
+                "degrees": [
+                    {
+                        "degree": "Doctorate",
+                        "subject": "Computer Science",
+                        "school": "International Institutions",
+                        "gpa": "GPA 3.5-3.9",
+                        "startDate": "2022",
+                        "endDate": "2022",
+                        "originalSchool": "Yeditepe University",
+                        "isTop50": false
+                    },
+                    {
+                        "degree": "Master's Degree",
+                        "subject": "Computer Science",
+                        "school": "Top Private Universities",
+                        "gpa": "GPA 3.5-3.9",
+                        "startDate": "2016",
+                        "endDate": "2016",
+                        "originalSchool": "Northwestern University",
+                        "isTop50": true,
+                        "isTop25": true
+                    },
+                    {
+                        "degree": "Bachelor's Degree",
+                        "subject": "Computer Science",
+                        "school": "International Institutions",
+                        "gpa": "GPA 3.5-3.9",
+                        "startDate": "2012",
+                        "endDate": "2012",
+                        "originalSchool": "Bahcesehir University",
+                        "isTop50": false
+                    }
+                ]
+            },
+            "skills": [
+                "Azure",
+                "Docker",
+                "Java",
+                "JavaScript",
+                "Python",
+                "React",
+                "SQL",
+                "TypeScript",
+                "Flask",
+                "Fast API",
+                "Agile",
+                "Angular",
+                "Pytorch",
+                "Tensorflow",
+                "Machine Learning",
+                "PostgreSQL"
+            ],
+            "id": 87,
+            "score": {
+                "totalScore": 92.5,
+                "breakdown": {
+                    "experience": 27.5,
+                    "education": 25,
+                    "skills": 20,
+                    "salary": 10,
+                    "availability": 10
+                }
+            }
+        },
+        {
+            "name": "Talented Zebra",
+            "email": "talented-zebra@example.com",
+            "phone": "61418863618",
+            "location": "USA",
+            "submitted_at": "2025-01-27 16:06:56.000000",
+            "work_availability": [
+                "full-time",
+                "part-time"
+            ],
+            "annual_salary_expectation": {
+                "full-time": "$94215"
+            },
+            "work_experiences": [
+                {
+                    "company": "Orion180 Insurance Services",
+                    "roleName": "Senior Software Engineer"
+                },
+                {
+                    "company": "Upwork",
+                    "roleName": "Web Developer"
+                },
+                {
+                    "company": "American Integrity Insurance Company",
+                    "roleName": "Software Developer"
+                },
+                {
+                    "company": "North Carolina Joint Underwriting Association",
+                    "roleName": "Software Developer"
+                },
+                {
+                    "company": "LexisNexis Robert Half",
+                    "roleName": "Software Developer"
+                },
+                {
+                    "company": "Pyramid Academy",
+                    "roleName": "Software Developer"
+                },
+                {
+                    "company": "SaasCharge",
+                    "roleName": "Software Developer"
+                }
+            ],
+            "education": {
+                "highest_level": "Master's Degree",
+                "degrees": [
+                    {
+                        "degree": "Master's Degree",
+                        "subject": "Computer Science",
+                        "school": "State Universities",
+                        "gpa": "GPA 4.0",
+                        "startDate": "2008",
+                        "endDate": "2010",
+                        "originalSchool": "Miami University",
+                        "isTop50": false
+                    },
+                    {
+                        "degree": "Bachelor's Degree",
+                        "subject": "Computer Science",
+                        "school": "International Institutions",
+                        "gpa": "GPA 4.0",
+                        "startDate": "2004",
+                        "endDate": "2008",
+                        "originalSchool": "Wuhan University of Science and Technology City College",
+                        "isTop50": false
+                    }
+                ]
+            },
+            "skills": [
+                "SQL",
+                "REST APIs",
+                "C#",
+                "React Native",
+                "React",
+                "Java",
+                "Objective-C",
+                "Vue JS",
+                "Angular",
+                "Flutter",
+                "TypeScript"
+            ],
+            "id": 851,
+            "score": {
+                "totalScore": 91,
+                "breakdown": {
+                    "experience": 30,
+                    "education": 21,
+                    "skills": 20,
+                    "salary": 10,
+                    "availability": 10
+                }
+            }
+        },
+        {
+            "name": "Vibrant Jaguar",
+            "email": "vibrant-jaguar@example.com",
+            "phone": "52461487105",
+            "location": "Hermosillo",
+            "submitted_at": "2025-01-28 17:29:05.000000",
+            "work_availability": [
+                "full-time",
+                "part-time"
+            ],
+            "annual_salary_expectation": {
+                "full-time": "$85260"
+            },
+            "work_experiences": [
+                {
+                    "company": "GoSite",
+                    "roleName": "Full Stack Developer"
+                },
+                {
+                    "company": "Vivid Health through BigRio",
+                    "roleName": "Full Stack Developer"
+                },
+                {
+                    "company": "Presence Learning",
+                    "roleName": "Software Engineer"
+                },
+                {
+                    "company": "Encora",
+                    "roleName": "Software Engineer"
+                },
+                {
+                    "company": "Presence Learning",
+                    "roleName": "Senior Frontend Engineer"
+                },
+                {
+                    "company": "SwitchFly and American Express",
+                    "roleName": "Full Stack Developer"
+                },
+                {
+                    "company": "Qualtop",
+                    "roleName": "Frontend Engineer"
+                },
+                {
+                    "company": "Grupo Salinas",
+                    "roleName": "Web Developer"
+                },
+                {
+                    "company": "Genuitec",
+                    "roleName": "Technical Support Engineer"
+                }
+            ],
+            "education": {
+                "highest_level": "Bachelor's Degree",
+                "degrees": [
+                    {
+                        "degree": "Bachelor's Degree",
+                        "subject": "Computer Science",
+                        "school": "Top Schools",
+                        "gpa": "GPA 3.5-3.9",
+                        "startDate": "",
+                        "endDate": "2019",
+                        "originalSchool": "Scholarship",
+                        "isTop50": true
+                    }
+                ]
+            },
+            "skills": [
+                "JavaScript",
+                "Lua",
+                "Amazon Web Services",
+                "Jest",
+                "MongoDB",
+                "Nest JS",
+                "Docker",
+                "React",
+                "Java",
+                "TypeScript",
+                "Node JS",
+                "Angular",
+                "TailwindCSS"
+            ],
+            "id": 509,
+            "score": {
+                "totalScore": 88,
+                "breakdown": {
+                    "experience": 30,
+                    "education": 20,
+                    "skills": 20,
+                    "salary": 8,
+                    "availability": 10
+                }
+            }
+        },
+        {
+            "name": "Vibrant Yak",
+            "email": "vibrant-yak@example.com",
+            "phone": "551818991308568",
+            "location": "Teodoro Sampaio",
+            "submitted_at": "2025-01-27 10:22:53.000000",
+            "work_availability": [
+                "full-time",
+                "part-time"
+            ],
+            "annual_salary_expectation": {
+                "full-time": "$129307"
+            },
+            "work_experiences": [
+                {
+                    "company": "Kaffa Mobile",
+                    "roleName": "Software Developer"
+                },
+                {
+                    "company": "Cobmais",
+                    "roleName": "Software Developer"
+                },
+                {
+                    "company": "Expert Data Processing",
+                    "roleName": "Software Developer"
+                },
+                {
+                    "company": "Centro Brasileiro de Cursos (CEBRAC)",
+                    "roleName": "Teacher"
+                },
+                {
+                    "company": "Luz Pr\u00f3pria",
+                    "roleName": "Web Developer"
+                },
+                {
+                    "company": "Anglo Prudentino College",
+                    "roleName": "Software Developer Intern"
+                }
+            ],
+            "education": {
+                "highest_level": "Master's Degree",
+                "degrees": [
+                    {
+                        "degree": "Master's Degree",
+                        "subject": "Computer Science",
+                        "school": "International Institutions",
+                        "gpa": "GPA 3.5-3.9",
+                        "startDate": "",
+                        "endDate": "",
+                        "originalSchool": "Universidade Federal de S\u00e3o Carlos",
+                        "isTop50": false
+                    },
+                    {
+                        "degree": "Bachelor's Degree",
+                        "subject": "Computer Science",
+                        "school": "International Institutions",
+                        "gpa": "GPA 3.0-3.4",
+                        "startDate": "",
+                        "endDate": "",
+                        "originalSchool": "Universidade Estadual Paulista",
+                        "isTop50": false
+                    }
+                ]
+            },
+            "skills": [
+                "SQL",
+                "JavaScript",
+                "C#",
+                "C++",
+                "PHP",
+                "React",
+                "HTML/CSS",
+                "Java",
+                "TypeScript",
+                "C",
+                "Kotlin"
+            ],
+            "id": 167,
+            "score": {
+                "totalScore": 88,
+                "breakdown": {
+                    "experience": 29,
+                    "education": 21,
+                    "skills": 20,
+                    "salary": 8,
+                    "availability": 10
+                }
+            }
+        },
+        {
+            "name": "Calm Penguin",
+            "email": "calm-penguin@example.com",
+            "phone": "13063216491",
+            "location": "Saskatoon",
+            "submitted_at": "2025-01-27 18:47:32.000000",
+            "work_availability": [
+                "full-time",
+                "part-time"
+            ],
+            "annual_salary_expectation": {
+                "full-time": "$64336"
+            },
+            "work_experiences": [
+                {
+                    "company": "Consensus Cloud Solution",
+                    "roleName": "Senior Software Engineer"
+                },
+                {
+                    "company": "ITC Infotech",
+                    "roleName": "Technical Architect"
+                },
+                {
+                    "company": "Wells Fargo",
+                    "roleName": "Lead Software Engineer"
+                },
+                {
+                    "company": "Capgemini",
+                    "roleName": "Senior Software Engineer"
+                },
+                {
+                    "company": "Software AG",
+                    "roleName": "Senior Software Engineer"
+                },
+                {
+                    "company": "Infosys",
+                    "roleName": "Associate Consultant"
+                },
+                {
+                    "company": "Xavient Information Systems",
+                    "roleName": "Software Engineer"
+                }
+            ],
+            "education": {
+                "highest_level": "Master's Degree",
+                "degrees": [
+                    {
+                        "degree": "Master's Degree",
+                        "subject": "Computer Science",
+                        "school": "International Institutions",
+                        "gpa": "GPA 3.5-3.9",
+                        "startDate": "",
+                        "endDate": "",
+                        "originalSchool": "Indian Institute of Information Technology Gwalior",
+                        "isTop50": false
+                    }
+                ]
+            },
+            "skills": [
+                "RabbitMQ",
+                "Amazon Web Services",
+                "Redis",
+                "Python",
+                "Kubernetes",
+                "Prometheus",
+                "Grafana",
+                "Java",
+                "GraphQL",
+                "Azure",
+                "Flask",
+                "Helm",
+                "Terraform",
+                "Docker",
+                "Microservices",
+                "Kafka",
+                "MongoDB",
+                "Django",
+                "REST APIs",
+                "Google Cloud Platform"
+            ],
+            "id": 172,
+            "score": {
+                "totalScore": 86,
+                "breakdown": {
+                    "experience": 30,
+                    "education": 20,
+                    "skills": 20,
+                    "salary": 6,
+                    "availability": 10
+                }
+            }
+        },
+        {
+            "name": "Optimistic Newt",
+            "email": "optimistic-newt@example.com",
+            "phone": null,
+            "location": "Cluj-Napoca",
+            "submitted_at": "2025-01-28 19:22:26.000000",
+            "work_availability": [
+                "full-time",
+                "part-time"
+            ],
+            "annual_salary_expectation": {
+                "full-time": "$47862"
+            },
+            "work_experiences": [
+                {
+                    "company": "Alpinia Enterprises",
+                    "roleName": "Senior Software Engineer"
+                },
+                {
+                    "company": "Unillence",
+                    "roleName": "Technical Project Manager"
+                },
+                {
+                    "company": "EPAM",
+                    "roleName": "Senior Software Engineer"
+                },
+                {
+                    "company": "UTT",
+                    "roleName": "Senior Backend Engineer"
+                },
+                {
+                    "company": "Luxoft",
+                    "roleName": "Senior Software Engineer"
+                },
+                {
+                    "company": "Innovecs",
+                    "roleName": "Senior Software Engineer"
+                },
+                {
+                    "company": "Infopulse",
+                    "roleName": "Senior Software Engineer"
+                },
+                {
+                    "company": "Zoral Labs",
+                    "roleName": "Senior Software Engineer"
+                },
+                {
+                    "company": "Ciklum",
+                    "roleName": "Lead Software Engineer"
+                }
+            ],
+            "education": {
+                "highest_level": "Master's Degree",
+                "degrees": [
+                    {
+                        "degree": "Master's Degree",
+                        "subject": "Computer Science",
+                        "school": "State Universities",
+                        "gpa": "GPA 3.0-3.4",
+                        "startDate": "",
+                        "endDate": "2008",
+                        "originalSchool": "State University of Informatics and Artificial Intelligence",
+                        "isTop50": false
+                    },
+                    {
+                        "degree": "Master's Degree",
+                        "subject": "",
+                        "school": "State Universities",
+                        "gpa": "GPA 3.0-3.4",
+                        "startDate": "",
+                        "endDate": "2005",
+                        "originalSchool": "State University of Informatics and Artificial Intelligence",
+                        "isTop50": false
+                    },
+                    {
+                        "degree": "Bachelor's Degree",
+                        "subject": "Computer Science",
+                        "school": "State Universities",
+                        "gpa": "GPA 3.0-3.4",
+                        "startDate": "",
+                        "endDate": "2003",
+                        "originalSchool": "Donetsk State Institute of Artificial Intelligence",
+                        "isTop50": false
+                    }
+                ]
+            },
+            "skills": [
+                "SQL",
+                "JavaScript",
+                "C++",
+                "PHP",
+                "HTML/CSS",
+                "GraphQL",
+                "Java",
+                "NoSQL",
+                "Python",
+                "Node JS",
+                "TypeScript"
+            ],
+            "id": 730,
+            "score": {
+                "totalScore": 85.5,
+                "breakdown": {
+                    "experience": 32.5,
+                    "education": 17,
+                    "skills": 20,
+                    "salary": 6,
+                    "availability": 10
+                }
+            }
+        },
+        {
+            "name": "Spirited Flamingo",
+            "email": "spirited-flamingo@example.com",
+            "phone": null,
+            "location": "Belo Horizonte",
+            "submitted_at": "2025-01-29 00:07:59.000000",
+            "work_availability": [
+                "full-time",
+                "part-time"
+            ],
+            "annual_salary_expectation": {
+                "full-time": "$107659"
+            },
+            "work_experiences": [
+                {
+                    "company": "OpenTech Alliance",
+                    "roleName": "Software Engineer"
+                },
+                {
+                    "company": "Raro Labs",
+                    "roleName": "Full Stack Developer"
+                },
+                {
+                    "company": "UDS Technology",
+                    "roleName": "Full Stack Developer"
+                },
+                {
+                    "company": "Governo do Estado de Minas Gerais",
+                    "roleName": "Software Developer"
+                },
+                {
+                    "company": "BB Tecnologia e Servi\u00e7os",
+                    "roleName": "Technical Support Engineer"
+                },
+                {
+                    "company": "TEM IND\u00daSTRIA ELETRONICA E COM\u00c9RCIO",
+                    "roleName": "Embedded Systems Engineer"
+                },
+                {
+                    "company": "Lionbridge",
+                    "roleName": "Search Analyst"
+                },
+                {
+                    "company": "Perto S.A.",
+                    "roleName": "Technical Support Engineer"
+                }
+            ],
+            "education": {
+                "highest_level": "Bachelor's Degree",
+                "degrees": [
+                    {
+                        "degree": "Bachelor's Degree",
+                        "subject": "Computer Science",
+                        "school": "International Institutions",
+                        "gpa": "GPA 3.0-3.4",
+                        "startDate": "2021",
+                        "endDate": "2025",
+                        "originalSchool": "Ampli",
+                        "isTop50": false
+                    },
+                    {
+                        "degree": "Associate's Degree",
+                        "subject": "Electrical Engineering",
+                        "school": "International Institutions",
+                        "gpa": "GPA 3.0-3.4",
+                        "startDate": "2006",
+                        "endDate": "2011",
+                        "originalSchool": "Pontif\u00edcia Universidade Cat\u00f3lica de Minas Gerais",
+                        "isTop50": false
+                    },
+                    {
+                        "degree": "Associate's Degree",
+                        "subject": "Electrical Engineering",
+                        "school": "International Institutions",
+                        "gpa": "GPA 3.0-3.4",
+                        "startDate": "2003",
+                        "endDate": "2006",
+                        "originalSchool": "Centro Federal de Educa\u00e7\u00e3o Tecnol\u00f3gica de Minas Gerais",
+                        "isTop50": false
+                    },
+                    {
+                        "degree": "Associate's Degree",
+                        "subject": "Information Technology",
+                        "school": "International Institutions",
+                        "gpa": "GPA 3.0-3.4",
+                        "startDate": "2011",
+                        "endDate": "2013",
+                        "originalSchool": "Col\u00e9gio Augustus",
+                        "isTop50": false
+                    }
+                ]
+            },
+            "skills": [
+                "Assembly",
+                "Jest",
+                "Nest JS",
+                "Project Management",
+                "Kibana",
+                "React",
+                "Java",
+                "PostgreSQL",
+                "Elasticsearch",
+                "SQL",
+                "JavaScript",
+                "MongoDB",
+                "C#",
+                "Next JS",
+                "Prometheus",
+                "TypeScript",
+                "Kubernetes",
+                "C++",
+                "Docker",
+                "HTML/CSS",
+                "Grafana",
+                "Google Cloud Platform",
+                "Kafka",
+                "Arduino",
+                "Node JS",
+                "C"
+            ],
+            "id": 939,
+            "score": {
+                "totalScore": 85,
+                "breakdown": {
+                    "experience": 30,
+                    "education": 15,
+                    "skills": 20,
+                    "salary": 10,
+                    "availability": 10
+                }
+            }
+        },
+        {
+            "name": "Vibrant",
+            "email": "vibrant-koala@example.com",
+            "phone": "31299171575437",
+            "location": "The Randstad",
+            "submitted_at": "2025-01-28 21:25:12.000000",
+            "work_availability": [
+                "full-time",
+                "part-time"
+            ],
+            "annual_salary_expectation": {
+                "full-time": "$126567"
+            },
+            "work_experiences": [
+                {
+                    "company": "Ortec Finance",
+                    "roleName": "Software Developer"
+                },
+                {
+                    "company": "insightsoftware",
+                    "roleName": "Lead Software Engineer"
+                },
+                {
+                    "company": "GrandVision BV",
+                    "roleName": "Software Engineer"
+                },
+                {
+                    "company": "Ada Tech",
+                    "roleName": "Software Engineer"
+                },
+                {
+                    "company": "Yara Brasil",
+                    "roleName": "Software Engineer"
+                },
+                {
+                    "company": "Berkana Patrim\u00f4nio",
+                    "roleName": "Software Engineer"
+                },
+                {
+                    "company": "Boi na Linha",
+                    "roleName": "Lead Software Engineer"
+                },
+                {
+                    "company": "Ulend",
+                    "roleName": "Lead Software Engineer"
+                },
+                {
+                    "company": "Ocatec",
+                    "roleName": "Consultant"
+                }
+            ],
+            "education": {
+                "highest_level": "Bachelor's Degree",
+                "degrees": [
+                    {
+                        "degree": "Bachelor's Degree",
+                        "subject": "Physics",
+                        "school": "International Institutions",
+                        "gpa": "GPA 3.0-3.4",
+                        "startDate": "2018",
+                        "endDate": "2021",
+                        "originalSchool": "Universidade de S\u00e3o Paulo",
+                        "isTop50": true
+                    },
+                    {
+                        "degree": "Associate's Degree",
+                        "subject": "Information Technology",
+                        "school": "International Institutions",
+                        "gpa": "GPA 3.0-3.4",
+                        "startDate": "2015",
+                        "endDate": "2017",
+                        "originalSchool": "Instituto Federal de S\u00e3o Paulo",
+                        "isTop50": false
+                    }
+                ]
+            },
+            "skills": [
+                "REST APIs",
+                "React",
+                "gRPC",
+                "Java",
+                "PostgreSQL",
+                "Agile",
+                "GraphQL",
+                "SQL",
+                "JavaScript",
+                "GDPR Compliance",
+                "C#",
+                "Jenkins",
+                "TypeScript",
+                "Microservices",
+                "Vue JS",
+                "Kubernetes",
+                "CircleCI",
+                "Azure",
+                "Docker",
+                "HTML/CSS",
+                "Python",
+                "Google Cloud Platform",
+                "Cypress",
+                "Flutter",
+                "Angular",
+                "Kotlin",
+                "Terraform",
+                "PHP",
+                "Node JS"
+            ],
+            "id": 892,
+            "score": {
+                "totalScore": 85,
+                "breakdown": {
+                    "experience": 30,
+                    "education": 17,
+                    "skills": 20,
+                    "salary": 8,
+                    "availability": 10
+                }
+            }
+        },
+        {
+            "name": "Energetic Goat",
+            "email": "energetic-goat@example.com",
+            "phone": "14025172306",
+            "location": "Leander",
+            "submitted_at": "2025-01-28 11:47:24.000000",
+            "work_availability": [
+                "full-time",
+                "part-time"
+            ],
+            "annual_salary_expectation": {
+                "full-time": "$119318"
+            },
+            "work_experiences": [
+                {
+                    "company": "VMware",
+                    "roleName": "Senior Software Engineer"
+                },
+                {
+                    "company": "Visa",
+                    "roleName": "Senior Software Engineer"
+                },
+                {
+                    "company": "ComScore",
+                    "roleName": "Software Engineer"
+                },
+                {
+                    "company": "Genpact",
+                    "roleName": "Software Engineer"
+                }
+            ],
+            "education": {
+                "highest_level": "Master's Degree",
+                "degrees": [
+                    {
+                        "degree": "Master's Degree",
+                        "subject": "Computer Science",
+                        "school": "State Universities",
+                        "gpa": "GPA 3.5-3.9",
+                        "startDate": "2014",
+                        "endDate": "2016",
+                        "originalSchool": "George Mason University",
+                        "isTop50": false
+                    },
+                    {
+                        "degree": "Bachelor's Degree",
+                        "subject": "Computer Science",
+                        "school": "International Institutions",
+                        "gpa": "GPA 3.5-3.9",
+                        "startDate": "2007",
+                        "endDate": "2011",
+                        "originalSchool": "Guru Nanak Dev University",
+                        "isTop50": false
+                    }
+                ]
+            },
+            "skills": [
+                "SQL",
+                "JavaScript",
+                "GitLab CI",
+                "Redis",
+                "C#",
+                "XML",
+                "C++",
+                "PHP",
+                "HTML/CSS",
+                "Java",
+                "GoLang",
+                "Python",
+                "Angular"
+            ],
+            "id": 822,
+            "score": {
+                "totalScore": 83,
+                "breakdown": {
+                    "experience": 22,
+                    "education": 21,
+                    "skills": 20,
+                    "salary": 10,
+                    "availability": 10
+                }
+            }
+        }
+    ],
+    "pagination": {
+        "total": 975,
+        "page": 1,
+        "limit": 10,
+        "totalPages": 98
+    }
+}
