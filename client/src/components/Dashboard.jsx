@@ -14,7 +14,7 @@ function Dashboard({ stats, onViewCandidates, filters, setFilters }) {
   const distributionData = [
     { name: 'Excellent (80+)', value: stats.distribution.excellent, color: '#10b981' },
     { name: 'Good (60-79)', value: stats.distribution.good, color: '#3b82f6' },
-    { name: 'Average (40-59)', value: stats.distribution.average, color: '#f59e0b' },
+    { name: 'Avg (40-59)', value: stats.distribution.average, color: '#f59e0b' },
     { name: 'Below (< 40)', value: stats.distribution.below, color: '#ef4444' },
   ];
 
