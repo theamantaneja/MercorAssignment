@@ -64,7 +64,7 @@ function App() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-3">
-              <div className="text-3xl">🚀</div>
+              <div className="text-3xl"></div>
               <div>
                 <h1 className="text-2xl font-bold text-gray-900">100B Jobs</h1>
                 <p className="text-sm text-gray-500">Hiring Decision Support System</p>
